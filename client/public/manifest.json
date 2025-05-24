@@ -1,0 +1,23 @@
+{
+  "name": "Retro Spinner PWA",
+  "short_name": "RetroSpinner",
+  "description": "A retro console-themed spinning wheel app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00FF41",
+  "orientation": "portrait-primary",
+  "categories": ["games", "utilities"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' fill='%23000000'/%3E%3Ccircle cx='96' cy='96' r='80' fill='none' stroke='%2300FF41' stroke-width='4'/%3E%3Cpath d='M96 16 L106 36 L86 36 Z' fill='%2300FF41'/%3E%3Ccircle cx='96' cy='96' r='15' fill='%23000000' stroke='%2300FF41' stroke-width='3'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23000000'/%3E%3Ccircle cx='256' cy='256' r='220' fill='none' stroke='%2300FF41' stroke-width='8'/%3E%3Cpath d='M256 36 L276 76 L236 76 Z' fill='%2300FF41'/%3E%3Ccircle cx='256' cy='256' r='40' fill='%23000000' stroke='%2300FF41' stroke-width='6'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
